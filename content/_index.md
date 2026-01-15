@@ -8,10 +8,12 @@ toc: false
 ## 幸福时刻
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="碎片" icon="book-open" >}}
+  {{< card link="about" title="关于" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## 湖边拾图
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+
+
+
